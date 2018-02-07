@@ -19,5 +19,21 @@ All of which are taken from https://data.cityofnewyork.us/Education/2012-SAT-Res
 
 Disclaimer - This project is a guided one from - https://www.dataquest.io/blog/data-science-portfolio-project/
 
+# Installation
+## Download the data
++ Clone this repo to your computer.
++ Get into the folder using cd NYC-SAT-scores.
+
+## Install the requirements
++ Install the requirements using pip install -r requirements.txt. 
+++ Make sure you use Python 2.
+++ You may want to use a virtual environment for this.
+
+## Usage
++ Open the SAT.ipynb notebook.
++ Run the cells one by one.
++ I added png and bmp files to the repository (districts.png, heatmap.png and schools.bmp) to show the folium maps I created. If you'll run the notebook you would be able to see them for your own.
+
+
 Enjoy!
 shnooz
