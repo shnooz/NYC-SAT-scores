@@ -1,0 +1,8 @@
+Jupyter Notebook
+pandas
+matplotlib
+scikit-learn
+numpy
+ipython
+scipy
+folium
